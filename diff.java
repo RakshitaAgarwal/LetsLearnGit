@@ -1,10 +1,10 @@
 import java.util.Scanner;
-public class Sum{
+public class Diff{
     public static void main(String args[]){
         Scanner sc = new Scanner(Syatem.in);
-        int n = sc.nextInt();
+        int a = sc.nextInt();
         int b = sc.nextInt();
-        int sum = n+b;
-        System.out.println("Sum is : " + sum);
+        int diff = a-b;
+        System.out.println("Difference is : " + diff);
     }
 }
