@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-a = b/n;
-=======
+
 import java.util.Scanner;
 public class Divide{
     public static void main(String args[]){
@@ -9,9 +7,8 @@ public class Divide{
         int d = sc.nextInt();
         if(d==0)
            System.out.println("Division is not Possible");
-        else if{
+        else {
             System.out.println("Division is: "+ n/d);
         }
     }
 }
->>>>>>> Rakshita/divide
